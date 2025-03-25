@@ -1,6 +1,7 @@
 # 📜 Seven Deadly Sins Cards
 
 Projeto desenvolvido com HTML, CSS e JavaScript, inspirado no anime Nanatsu no Taizai (Os Sete Pecados Capitais).
+#### ✅ Link do projeto: https://luizf-devdias.github.io/clone-nanatsu-no-taizai/
 
 ## ✨ Sobre o projeto
 
